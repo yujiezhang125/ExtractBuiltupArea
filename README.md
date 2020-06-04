@@ -1,4 +1,4 @@
-1 code: calculatepercent.py
+1 code: calculatepercent.py  [ !! Python 2.7 !! ]
 
 2 To extract built-up city area, calculate the percent of Architecture area. If the percentage is greater than 50%, extract the area as built-up city area.
 
